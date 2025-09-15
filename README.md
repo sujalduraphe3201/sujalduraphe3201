@@ -39,24 +39,11 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=6&theme=radical"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+  <a href="https://www.linkedin.com/in/sujalduraphe/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+ 
 </p>
