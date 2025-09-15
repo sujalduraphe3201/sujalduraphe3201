@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Jane Doe 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer from Earth 🌍</h3>
+<h1 align="center">Hi there, I'm Sujal Duraphe 👋</h1>
+<h3 align="center">A passionate Full-Stack Developer from Thane, India 🇮🇳</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m a developer specializing in **Backend Systems** and **Cloud Infrastructure**.
-- 🌱 I’m currently learning about **Go** and **Kubernetes**.
-- 👯 I’m looking to collaborate on open-source projects related to **DevOps tools**.
-- 💬 Ask me about **Python, Django, Docker, and AWS**.
+- 🔭 I’m a developer specializing in building modern, full-stack web applications.
+- 🌱 I’m currently focused on mastering **TypeScript** and exploring advanced **React** patterns.
+- 👯 I’m looking to collaborate on open-source projects using the **MERN stack (MongoDB, Express, React, Node.js)**.
+- 💬 Ask me about **React, Node.js, TypeScript, Express, and Tailwind CSS**.
 - 📫 You can reach me at **sujalduraphe3201@gmail.com**.
 
 ---
@@ -36,6 +36,18 @@
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></a>
 </p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
 ---
 
 ### 🔗 Connect with Me
@@ -44,5 +56,7 @@
   <a href="https://www.linkedin.com/in/sujalduraphe/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
+  <a href="mailto:sujalduraphe3201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
