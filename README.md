@@ -1,12 +1,9 @@
 <h1 align="center">Hi there, I'm Sujal Duraphe 👋</h1>
----
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m a developer specializing in building modern, full-stack web applications.
 - 🌱 I’m currently focused on mastering **TypeScript** and exploring advanced **React** patterns.
-- 👯 I’m looking to collaborate on open-source projects using the **MERN stack (MongoDB, Express, React, Node.js)**.
-- 💬 Ask me about **React, Node.js, TypeScript, Express, and Tailwind CSS**.
 - 📫 You can reach me at **sujalduraphe3201@gmail.com**.
 
 ---
