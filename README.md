@@ -1,6 +1,4 @@
 <h1 align="center">Hi there, I'm Sujal Duraphe 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer from Thane, India 🇮🇳</h3>
-
 ---
 
 ### 👨‍💻 About Me
