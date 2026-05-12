@@ -10,17 +10,7 @@
 
 </div>
 
----
 
-## 👨‍💻 About Me
-
-- 🚀 Building full-stack web applications with a focus on performance and clean architecture
-- 🧠 Currently deepening expertise in **TypeScript** and advanced **React** patterns
-- 🎵 Creator of **Moodify** — a real-time facial emotion music recommender
-- 🗂️ Creator of **Interior Desk** — a workflow management system for interior designers
-- 📫 Reach me at **sujalduraphe3201@gmail.com**
-
----
 
 ## 🛠️ Tech Stack
 
