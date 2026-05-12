@@ -10,14 +10,7 @@
 
 </div>
 
----
 
-## 👨‍💻 About Me
-
-- 🚀 Building full-stack web applications with a focus on performance and clean architecture
-- 📫 Reach me at **sujalduraphe3201@gmail.com**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -54,22 +47,6 @@
 |--------|-------------|-------|
 | [**Moodify**](https://github.com/sujalduraphe3201/moodify) | Real-time facial emotion music recommender | React, Node.js, MediaPipe, Redis, MongoDB |
 | [**Interior Desk**](https://github.com/sujalduraphe3201/interior-design-system/tree/orange-theme) | Workflow & quotation management for interior designers | React, Node.js, MySQL, jsPDF |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujalduraphe3201&theme=tokyonight)](https://github.com/sujalduraphe3201)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujalduraphe3201&theme=tokyonight)](https://github.com/sujalduraphe3201)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujalduraphe3201&theme=tokyonight)](https://github.com/sujalduraphe3201)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujalduraphe3201&theme=tokyonight)](https://github.com/sujalduraphe3201)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujalduraphe3201&theme=tokyonight&utcOffset=5.5)](https://github.com/sujalduraphe3201)
-
-</div>
 
 ---
 
